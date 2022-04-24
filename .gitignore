@@ -1,0 +1,6 @@
+
+tools 2.5 .mcpack
+warden 2.5 test.mcpack
+warden test.mcpack
+*.mcpack
+*.zip
